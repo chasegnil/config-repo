@@ -1,1 +1,15 @@
-
+{
+  "name": "config-client",
+  "profiles": ["dev"],
+  "label": null,
+  "version": "4e3ca4b9e2bb96c9a0ba012f6c6e0b6cadc48f3e",
+  "state": null,
+  "propertySources": [
+    {
+      "name": "https://github.com/zhaoyibo/spring-cloud-study/config-repo/config-client-dev.yml",
+      "source": {
+        "info.profile": "dev"
+      }
+    }
+  ]
+}
