@@ -6,7 +6,7 @@
   "state": null,
   "propertySources": [
     {
-      "name": "https://github.com/zhaoyibo/spring-cloud-study/config-repo/config-client-dev.yml",
+      "name": "https://github.com/chasegnil/config-repo/config/config-client-dev.yml",
       "source": {
         "info.profile": "dev"
       }
